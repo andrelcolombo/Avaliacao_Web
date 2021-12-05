@@ -1,0 +1,16 @@
+C:\Users\andre\Desktop\Avaliacao\bin\Debug\net5.0\Avaliacao.exe
+C:\Users\andre\Desktop\Avaliacao\bin\Debug\net5.0\Avaliacao.deps.json
+C:\Users\andre\Desktop\Avaliacao\bin\Debug\net5.0\Avaliacao.runtimeconfig.json
+C:\Users\andre\Desktop\Avaliacao\bin\Debug\net5.0\Avaliacao.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Avaliacao\bin\Debug\net5.0\Avaliacao.dll
+C:\Users\andre\Desktop\Avaliacao\bin\Debug\net5.0\ref\Avaliacao.dll
+C:\Users\andre\Desktop\Avaliacao\bin\Debug\net5.0\Avaliacao.pdb
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.AssemblyInfo.cs
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.dll
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\ref\Avaliacao.dll
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.pdb
+C:\Users\andre\Desktop\Avaliacao\obj\Debug\net5.0\Avaliacao.genruntimeconfig.cache

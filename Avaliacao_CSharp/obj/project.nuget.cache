@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8o4wQmk+jQ1icRWWZ8C904ZDu5rbVKBE919qaIu5cX117wMkZND9Wh/5ksa+/AyOEGs6XyzSjdAAJ8sm3Hah1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\Avaliacao_CSharp\\Avaliacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\refit\\6.1.15\\refit.6.1.15.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
